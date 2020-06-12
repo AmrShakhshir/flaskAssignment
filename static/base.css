@@ -1,0 +1,11 @@
+/* sticky footer */
+
+html, body {
+    height: 100%;
+}
+.wrapper {
+  min-height: calc(100vh - 80px);
+}
+.footer {
+   height: 80px;
+}
